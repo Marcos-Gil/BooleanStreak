@@ -26,12 +26,12 @@ Examples: (run in the interaction window of DrJava, or a shell)
 
  * > boolean[] test_case = new boolean[]{false, true, true, false};
  * > BooleanStreak.longestStreak(test_case)
- * 2
+ * > 2
 
  * > boolean[] test_case = new boolean[]{false};
  * > BooleanStreak.longestStreak(test_case)
- * 0
+ * > 0
 
  * * > boolean[] test_case = new boolean[]{false, true, true, true, false, true, true, true};
  * > BooleanStreak.longestStreak(test_case)
- * 3
+ * > 3
