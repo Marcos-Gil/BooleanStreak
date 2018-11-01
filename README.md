@@ -28,11 +28,13 @@ Examples: (run in the interaction window of DrJava, or a shell)
  * > BooleanStreak.longestStreak(test_case)
  * > 2
 
+or
 
  * > boolean[] test_case = new boolean[]{false};
  * > BooleanStreak.longestStreak(test_case)
  * > 0
 
+or
 
  *  > boolean[] test_case = new boolean[]{false, true, true, true, false, true, true, true};
  * > BooleanStreak.longestStreak(test_case)
