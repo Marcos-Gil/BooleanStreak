@@ -17,7 +17,7 @@ Using DrJava: Hit the compile button to compile, then in the Interactions window
 
  * BooleanStreak.longestStreak(boolean[])
  
- Using cmd.exe (windows) or terminal (mac)
+Using cmd.exe (windows) or terminal (mac)
  
  * Compilation: javac BooleanStreak.java
  * Usage      : java BooleanStreak.longestStreak(boolean[])
